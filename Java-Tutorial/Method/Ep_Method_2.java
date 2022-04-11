@@ -1,4 +1,3 @@
-
 public class Ep_Method_2 
 {
     public static void main(String[] args) 
@@ -27,3 +26,4 @@ public class Ep_Method_2
         System.out.println(c);
     }
 }
+

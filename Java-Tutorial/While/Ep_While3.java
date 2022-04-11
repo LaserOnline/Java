@@ -1,5 +1,3 @@
-package Java;
-
 public class Ep_While3 
 {
     public static void main(String args[])

@@ -1,5 +1,3 @@
-package Java;
-
 import java.io.IOException;
 
 public class Ep_While1 
