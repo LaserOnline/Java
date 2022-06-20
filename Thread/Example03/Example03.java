@@ -6,11 +6,10 @@ public class Example03
             for (int j = -1; j > -7; j--) {
                 Thread.sleep(1000);
                 System.out.println(j);
-               
             }
-        } catch (Exception expn) {
+        } catch (Exception e) {
            
-            System.out.println(expn);
+            System.out.println(e);
         }
     }
 }
